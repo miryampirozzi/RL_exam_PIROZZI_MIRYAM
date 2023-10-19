@@ -58,7 +58,7 @@ $ rosrun rl_exam kuka_invkin_ctrl
 $ rosrun rl_exam move_and_search
 ```
 
--Open the _rqt_ tool in ROS to visualize the content of some desired topics:
+- Open the _rqt_ tool in ROS to visualize the content of some desired topics:
 
 ```sh
 $ rqt_image_view
