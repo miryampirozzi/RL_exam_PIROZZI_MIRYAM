@@ -69,3 +69,15 @@ $ rqt_image_view
 ![Client output](/Readme_images/terminal1.png) 
 ![Server output](/Readme_images/terminal2.png) 
 ![Simulation results](/Readme_images/final.png) 
+
+
+## Additional useful information
+
+- In order to properly play the videos included into the pptx presentation, it might be necessary to run the following commands:
+  
+```sh
+$ sudo apt-get update
+$ sudo apt-get install ubuntu-restricted-extras
+```
+
+- As you have probably noticed, some snapshots of terminals appear to have a different user. That it because it was necessary to run te project on a different hardware by the end of the implementation, since the first one started reporting few issues regarding the kinematic inversin computation.
