@@ -81,3 +81,4 @@ $ sudo apt-get install ubuntu-restricted-extras
 ```
 
 - As you have probably noticed, some snapshots of terminals appear to have a different user. That it because it was necessary to run te project on a different hardware by the end of the implementation, since the first one started reporting few issues regarding the kinematic inversin computation.
+
