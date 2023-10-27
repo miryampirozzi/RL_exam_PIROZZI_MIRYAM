@@ -22,7 +22,7 @@ This project uses some external packages provided by the course of Robotics Lab 
 
 ## Installation process
 
-In order to run the project, the folder must be cloned inside the _src_folders of the local workspace by opening a terminal in it and running the following commands:
+In order to run the project, the folder must be cloned inside the _src_ folder of the local workspace by opening a terminal in it and running the following commands:
 
 ```sh
 $ git clone https://github.com/miryampirozzi/RL_exam_PIROZZI_MIRYAM.git
@@ -80,5 +80,5 @@ $ sudo apt-get update
 $ sudo apt-get install ubuntu-restricted-extras
 ```
 
-- As you have probably noticed, some snapshots of terminals appear to have a different user. That it because it was necessary to run te project on a different hardware by the end of the implementation, since the first one started reporting few issues regarding the kinematic inversion computation.
+- As you have probably noticed, some snapshots of terminals appear to have a different user. That it because it was necessary to run the project on a different hardware by the end of the implementation, since the first one started reporting few issues regarding the kinematic inversion computation.
 
