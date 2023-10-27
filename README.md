@@ -22,7 +22,7 @@ This project uses some external packages provided by the course of Robotics Lab 
 
 ## Installation process
 
-In order to run the project, the folder must be cloned inside the _src_folders of the local workspace by opening a terminal in it and running the following commands:
+In order to run the project, the folder must be cloned inside the _src_ folder of the local workspace by opening a terminal in it and running the following commands:
 
 ```sh
 $ git clone https://github.com/miryampirozzi/RL_exam_PIROZZI_MIRYAM.git
